@@ -19,7 +19,7 @@ int main()
     char s1[20] = "Hello how are you";
     char d[20] = "I am fine.";
 
-    memcpy(d, s1, 10);
+    myMemcpy(d, s1, 10);
     cout << d;
     return 0;
 }
