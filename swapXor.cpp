@@ -13,10 +13,8 @@ int main()
 {
    int i = 10;
    int j = 5;
+   
    printf("\ni=%d j =%d", i, j);
-
-
    func_xor (i, j);
-
    printf("\ni=%d j =%d", i, j);
 }

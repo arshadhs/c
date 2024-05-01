@@ -15,7 +15,6 @@ int main()
    printf("\ni=%d j =%d", i, j);
 
    func(&i, &j);
-   //	 func_xor (i, j);
-   //func_memCpy(&i, &j);
+
    printf("\ni=%d j =%d", i, j);
 }
