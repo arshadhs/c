@@ -7,8 +7,7 @@
 
 #define MAXLINE 100
 
-int getLine(char line[])
-{
+int getLine(char line[]) {
     int c;
     int i;
 

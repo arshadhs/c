@@ -23,13 +23,9 @@ class Solution {
 int main() {
     Solution s;
 
-    for (int i = 0; i < 7; i++)
-    {
- //                   cout << "\n i=" << i;
-
+    for (int i = 0; i < 7; i++) {
+        // cout << "\n i=" << i;
         cout << "\t" <<  s.fibonacciRecursive(i);
-            }
-
-
+    }
     return 0;
 }

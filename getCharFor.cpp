@@ -10,7 +10,6 @@ int main()
 //		std::cout << static_cast<char>(c);
 	}
 
-
 	while((c=getchar()) != EOF)
 	{
 		if (c == '\n')
